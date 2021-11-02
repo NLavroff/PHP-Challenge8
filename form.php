@@ -40,7 +40,7 @@
             <textarea id="msg" name="message"></textarea>
         </div>
         <div class="button">
-            <button type="submit">Envoyer le message</button>
+            <button type="submit" name="submit">Envoyer le message</button>
         </div>
     </form>
 </body>
